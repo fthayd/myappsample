@@ -36,6 +36,7 @@ int main(int argc, char *argv[])
 
     printf("%d. smallest :%d\n",m, sol.nthSmallest(input, sizeof(input)/sizeof(input[0]), m));
     printf("Test\n");
+    printf("Test2\n");
 
     return 0;//a.exec();
 }
